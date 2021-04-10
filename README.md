@@ -86,6 +86,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 3. KNN/WNN and nearest centroids| [[Stream link]](https://web.microsoftstream.com/video/5766e6dc-d2da-48f9-90eb-cd123f09897e) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
 | 4. Bayesian classification| [[Stream link]](https://web.microsoftstream.com/video/577a17a7-8eff-4d7f-981f-8528a29048fb) | [[notebook 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_4_classification.ipynb) |
 | Problem Sheet W16 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/Question_Sheet_2_classification.ipynb) |
+| Problem Sheet W16 Solution Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/Question_Sheet_2_classification_explanation.pdf) |
 | Q&A Session  | [[Stream link]](https://web.microsoftstream.com/video/7658f9ac-08a0-493b-a2c2-5909fa59237a) | - |
 
 #### (Week 18): 8/03/2021 (Laurence)
@@ -96,6 +97,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 3. EM for Gaussian mixture models| [[Stream link]](https://web.microsoftstream.com/video/0c8216e8-bdd3-4f3e-b713-29021e7ec950) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_5_clustering.ipynb) |
 | 4. Objective for EM [Non-examinable]| [[Stream link]](https://web.microsoftstream.com/video/2816e646-b599-4593-b679-d60bb6d1f47b) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/part_5_clustering.ipynb) |
 | Problem Sheet W18 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/Question_Sheet_3_clustering.ipynb) |
+| Problem Sheet W18 Solution Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/blob/main/notebooks/Question_Sheet_3_clustering_explanation.pdf) |
 | Q&A Session (lots about CW!) | [[Stream link]](https://web.microsoftstream.com/video/7f37470c-bfb4-42fd-bab6-f48a921aaa6d) | - |
 
 
@@ -117,23 +119,27 @@ I have printed the Notebooks as pdfs.  Note that this really doesn't work well, 
 | MM07. Fourier Series | 10:28 | [[Stream link]](https://web.microsoftstream.com/video/f35ba189-8d81-48be-9b02-c0d6530d8e44) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM07.pdf) |
 | MM08. 1D Fourier Transform  | 17:18| [[Stream link]](https://web.microsoftstream.com/video/14e4fee4-d38f-4225-9a8a-46b2f8787150) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM08.pdf) |
 | Problem Sheet MM02  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet-MM02.pdf) |
-| Problem Sheet MM02  | - | Answers          | [[pdf]] |
-| Q&A Session  | - | [[Stream link]] | - |
+| Problem Sheet MM02  | - | Answers  [[sines.py]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/sines.py)  | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet-MM02-Solutions.pdf) |
+| Q&A Session  | 58:33 | [[Stream link]](https://web.microsoftstream.com/video/64299869-0bed-4d8d-88a8-afe7f896a531) | - |
 
 #### Week 20: 22/03/2021 (Majid)
 | Lecture | Duration | video | slides |
 | ------ | ---- | --- | --- |
-| MM09. 2D Fourier Transform | - | [[Stream link]] | [[pdf]] |
-| MM10. Frequency Features | - | [[Stream link]] | [[pdf]] |
-| Problem Sheet MM03  | - | Self/Group study | [[pdf]] |
-| Problem Sheet MM03  | - | Answers          | [[pdf]] |
-| Q&A Session  | - | [[Stream link]] | - |
+| MM09. 2D Fourier Transform | 14:45 | [[Stream link]](https://web.microsoftstream.com/video/d26f12b1-6e6e-45aa-922e-1bc3b4576109) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM09.pdf) |
+| MM10. Frequency Features | 19:16 | [[Stream link]](https://web.microsoftstream.com/video/2f3975e9-45f0-49cb-bbc9-ab130328861d) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM10.pdf) |
+| Problem Sheet MM03  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet-MM03.pdf) |
+| Problem Sheet MM03  | - | Answers          | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet-MM03-Solutions.pdf) |
+| Q&A Session  | - | [[Stream link]] | After Easter Break |
 
-#### Week 20: 29/03/2021 (Majid)
+#### Week 21: 19/04/2021 (Majid)   
+#### Week 21: The videos and problem sheet are added now in case it's helpful to have more time on this final material for Week 21.
 | Lecture | Duration | video | slides |
 | ------ | ---- | --- | --- |
-| MM11. More on Features | - | [[Stream link]] | [[pdf]] |
-| MM12. Convolutions | - | [[Stream link]] | [[pdf]] |
-| Problem Sheet MM04  | - | Self/Group study | [[pdf]] |
-| Problem Sheet MM04  | - | Answers          | [[pdf]] |
-| Q&A Session  | - | [[Stream link]] | - |
+| MM11. More on Features | 20:53 | [[Stream link]](https://web.microsoftstream.com/video/7295f9cb-a6d3-497b-8081-ed4e3a7b41ad) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM11.pdf) |
+| MM12. Convolutions | 20:02 | [[Stream link]](https://web.microsoftstream.com/video/249e6264-e6d5-4f8e-9280-1445e715978e) | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/slides/COMS20011-MM12.pdf) |
+| Optional Playthings | *** | [[sobel.py]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/sobel.py) | [[FFT.py]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/FFT.py) |
+| Problem Sheet MM04  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet-MM04.pdf) |
+| Problem Sheet MM04  | - | Answers          | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet-MM04-Solutions.pdf)|
+| Q&A Session  | - | [[Stream link]] | After Easter Break  |
+
+*** The image gif files for the Optional Playthings are in the ProblemSheets folder (see above). Equivalent Matlab code can be copy-pasted from lecture PDF.
